@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sobirjon</h1>
 
-<!--
-**sobirjon-developer/sobirjon-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-End Developer <br/>
+  🚀 Passionate about building modern web apps
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- 📍 Location: Tashkent, Uzbekistan
+- 💬 Telegram: @sobirjon_dev
+
+---
+
+## 🚀 About Me
+
+I am a passionate Front-End Developer who loves building responsive and interactive web applications.
+
+💡 What I focus on:
+- Clean UI/UX
+- High performance apps
+- Modern technologies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎨 I love UI animations
+- 🧠 Always learning new tech
+- ☕ Code + coffee = productivity
